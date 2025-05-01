@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EffectiveApiTesting.Api", "EffectiveApiTesting.Api\EffectiveApiTesting.Api.csproj", "{B668BE5B-89D3-462D-959F-49E13425E93A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EffectiveApiTesting.Tests", "EffectiveApiTesting.Tests\EffectiveApiTesting.Tests.csproj", "{2A2219B8-4A0C-4BFF-ADF4-B433C7F5315D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B668BE5B-89D3-462D-959F-49E13425E93A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B668BE5B-89D3-462D-959F-49E13425E93A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B668BE5B-89D3-462D-959F-49E13425E93A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B668BE5B-89D3-462D-959F-49E13425E93A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2219B8-4A0C-4BFF-ADF4-B433C7F5315D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2219B8-4A0C-4BFF-ADF4-B433C7F5315D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2219B8-4A0C-4BFF-ADF4-B433C7F5315D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2219B8-4A0C-4BFF-ADF4-B433C7F5315D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EFE0CCA-8EE1-4F5E-B8EC-F17874FDBB18}
+	EndGlobalSection
+EndGlobal
